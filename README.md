@@ -1,6 +1,6 @@
 # Çalışan Yönetim Uygulaması 🧑🏻‍💻
 
-## Proje Hakkında
+## Proje Hakkında 💡
 Bu uygulama, bir şirketin çalışanlarını yönetmek için geliştirilmiştir. **Java** ve **MySQL** kullanılarak oluşturulan bu proje, veritabanı yönetimi ve SQL konularında derinlemesine bilgi sahibi olmanızı sağlar.
 
 Uygulamanın temel özellikleri:
@@ -10,12 +10,12 @@ Uygulamanın temel özellikleri:
 
 Bu proje, verimli veri yönetim tekniklerini öğrenme ve uygulama fırsatı sunar.
 
-## Kullanılan Teknolojiler
+## Kullanılan Teknolojiler 🛠️
 - **Programlama Dili:** Java
 - **Veritabanı Yönetim Sistemi:** MySQL
 - **Bağlantı Kütüphanesi:** JDBC (Java Database Connectivity)
 
-## Özellikler
+## Özellikler 📜
 1. Çalışan Kaydetme
 2. Çalışan Bilgilerini Güncelleme
 3. Çalışan Silme
