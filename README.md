@@ -1,6 +1,6 @@
 # Çalışan Yönetim Uygulaması 🧑🏻‍💻
 
-## Proje Hakkında 💡
+## Proje Hakkında 
 Bu uygulama, bir şirketin çalışanlarını yönetmek için geliştirilmiştir. **Java** ve **MySQL** kullanılarak oluşturulan bu proje, veritabanı yönetimi ve SQL konularında derinlemesine bilgi sahibi olmanızı sağlar.
 
 Uygulamanın temel özellikleri:
